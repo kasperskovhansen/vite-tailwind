@@ -1,4 +1,6 @@
 # Medium inspired user comments made with TailwindCSS Vue 3 and Vite
+[Live demo](https://vite-tailwind-medium-comments.netlify.app/)
+<img width="1344" alt="image" src="https://user-images.githubusercontent.com/56992010/166817375-9304124e-c396-4e7e-b97b-86436044e1da.png">
 
 # Vue 3 + TypeScript + Vite
 
